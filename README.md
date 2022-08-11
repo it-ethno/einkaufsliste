@@ -12,3 +12,5 @@ Offenbar wollte ich damals die Prinzipien von IndexedDB mit einem simplen Speich
 Um die "App" in ihrer ganzen ursprünglichen Schönheit zu erfahren, könnt Ihr das Hintergrundbild (welches übrigens von [Heidi Fin](https://unsplash.com/@heidijfin) ist) im "alltainer" auskommentieren.
 
 Habt Spass damit, und forkt das Ding bitte was das Zeug hält, Design-Trash muss leben!
+
+Live gibt's das Ganze [hier](https://beautiful-donut-e4cf02.netlify.app/).
